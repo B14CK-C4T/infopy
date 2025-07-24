@@ -65,4 +65,5 @@ $ python3 infopy.py -d example.com --whois
 - Uses the SecurityTrails API — you need a free or paid API key.
 - API rate limits apply depending on your subscription.
 
-
+## 📄 License
+This project is open-source and free to use under the MIT License.
