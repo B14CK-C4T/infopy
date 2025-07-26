@@ -1,0 +1,6 @@
+#config
+config.yaml
+
+#dir
+test/
+.directory

@@ -41,6 +41,8 @@ python3 infopy.py -d example.com --sub
 | `-d`      | (Required) Target domain | `-d example.com` |
 | `--whois` | Get WHOIS information    | `--whois`        |
 | `--sub`   | Fetch list of subdomains | `--sub`          |
+| -o      | Save output              | -o result.txt  |
+>>>>>>> master
 
 ## 🖨️ Example Output
 - Subdomain Finder:
